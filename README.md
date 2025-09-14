@@ -32,5 +32,7 @@ Explore KPIs, filters, and visuals
 # 📌 Author
 Mayank Bhatt
 🌐 Portfolio https://mayank-bhatt22.github.io/Mayank_Portfolio_Website/
+
 💼 LinkedIn www.linkedin.com/in/mayank-bhat
+
 🐙 GitHub https://github.com/Mayank-Bhatt22
